@@ -1,5 +1,6 @@
 Gemfile.lock
 .byebug_historys
+.DS_store
 *.jpg
 *.html
 *.json
