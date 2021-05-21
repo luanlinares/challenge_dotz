@@ -1,0 +1,77 @@
+Style/Documentation:
+  Enabled: false
+
+Naming/AccessorMethodName:
+  Enabled: false
+
+Metrics/LineLength:
+  Enabled: false
+
+Style/GlobalVars:
+  Enabled: false
+
+Style/MutableConstant:
+  Enabled: false
+
+Metrics/ClassLength:
+  Max: 160
+
+Metrics/ModuleLength:
+  Max: 180
+
+Metrics/MethodLength:
+  Max: 50
+
+Metrics/AbcSize:
+  Max: 60
+
+Style/MixinUsage:
+  Enabled: false
+
+Metrics/CyclomaticComplexity:
+  Enabled: false
+
+Style/StringLiterals:
+  Enabled: false
+
+Metrics/BlockLength:
+  Max: 100
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Lint/SuppressedException:
+  Enabled: false
+
+Style/EmptyElse:
+  Enabled: false
+
+Style/ClassVars:
+  Enabled: false
+
+Layout/TrailingEmptyLines:
+  Enabled: false
+
+Layout/EndOfLine:
+  Enabled: false
+
+Layout/FirstHashElementIndentation:
+  Enabled: false
+
+Style/LineEndConcatenation:
+  Enabled: false
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+Style/ConditionalAssignment:
+  Enabled: false
+
+Metrics/PerceivedComplexity:
+  Enabled: false
+
+Style/MultipleComparison:
+  Enabled: false
+
+Style/NilComparison:
+  Enabled: false

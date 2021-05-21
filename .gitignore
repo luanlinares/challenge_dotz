@@ -1,0 +1,6 @@
+Gemfile.lock
+.byebug_historys
+*.jpg
+*.html
+*.json
+debug.log

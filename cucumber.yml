@@ -1,0 +1,5 @@
+default: -p pretty -p json 
+for_ci:  --format progress
+pretty: --format pretty
+html:  --format html --out=results/report.html
+json: --format json --out=results/report.json
