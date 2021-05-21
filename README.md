@@ -32,7 +32,8 @@ Projeto
 │   ├── JSON Report
 │   └── HTML Report    
 ├── .gitignore
-├── cucumber.yaml
+├── .rubocop.yml
+├── cucumber.yml
 ├── Gemfile
 ├── Gemfile.lock
 └── README.md
